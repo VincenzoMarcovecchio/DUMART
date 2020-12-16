@@ -50,7 +50,7 @@ const Post = ({ post, allCategories }) => {
       </div>
 
       <div className="mt-10">
-        <Comments postSlug={slug} postTitle={post.frontmatter.title} />
+        {/* <Comments postSlug={slug} postTitle={post.frontmatter.title} /> */}
       </div>
     </AntContent>
   )
