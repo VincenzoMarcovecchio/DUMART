@@ -29,7 +29,7 @@ const CategoryTemplate = ({ data, pageContext }) => {
   return (
     <Layout title={pageTitle} description={siteSubtitle} keywords={keywords}>
       <Sidebar />
-      <Page title={`Category: ${category}`}>
+      <Page title={`Categoria: ${category}`}>
         <Feed edges={edges} allCategories={allCategories} />
         <Pagination
           prevPagePath={prevPagePath}

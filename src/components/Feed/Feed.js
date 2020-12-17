@@ -38,7 +38,6 @@ const Feed = ({ edges, allCategories }) =>
       title = found[1]
       externalLink = found[2]
     }
-    console.log(description)
 
     return (
       <div className={`post ${featured && 'post-featured'} relative`} key={slug}>
@@ -51,7 +50,7 @@ const Feed = ({ edges, allCategories }) =>
           {imgSrc && (
             <Col xs={24} sm={24} md={4} lg={4} xl={4}>
               <Link to={slug}>
-                <img src={imgSrc} alt="" title="" className="mb-5 poster" />
+                <img src={imgSrc} alt={slug} title="" className="mb-5 poster" />
               </Link>
             </Col>
           )}
@@ -101,10 +100,10 @@ const Feed = ({ edges, allCategories }) =>
                 </Link>
               )}
             </h1>
-            <h3>{description}</h3>
+            <p className="text-2xl lg:max-w-xl">{description}</p>
             <p className="text-gray-500 text-right">
               Scritta{' '}
-              <time dateTime={dayjs(date).locale('it').format('MMMM D, YYYY')}>
+              <time dateTime={dayjs(date).format('MMMM D, YYYY')}>
                 {dayjs(date).fromNow()}
               </time>
             </p>
