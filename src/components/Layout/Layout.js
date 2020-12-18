@@ -8,6 +8,7 @@ const Layout = ({ children, title, description, keywords, article }) => (
       <html lang="it" prefix="og: http://ogp.me/ns#" />
       <title>{title}</title>
       <meta name="keywords" content={keywords} />
+      <meta name="msvalidate.01" content="DAD3C6F0C2AD454596A0AE3C7A0213F8" />
       <meta name="description" content={description} />
       <meta property="og:site_name" content={title} />
       <meta name="twitter:card" content="summary" />

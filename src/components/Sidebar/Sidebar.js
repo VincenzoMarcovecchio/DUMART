@@ -23,7 +23,7 @@ const Sidebar = ({ hideMobile }) => {
         <Categories />
         <Tags />
         <br />
-        <span> 1° posto concorso on- line “Ad Lucem” 2013 - Oubliette Magazine;</span>
+        <span> 1° posto concorso on - line “Ad Lucem” 2013 - Oubliette Magazine;</span>
         <br />
         <br />
         <span> Attestato d’Onore con targa nel Premio VIVARIUM 1012;</span>
@@ -58,7 +58,7 @@ const Sidebar = ({ hideMobile }) => {
         <span>1° posto nel concorso on- line PoesiaEPoeti 2011.</span>
         <br />
         <br />
-        <span>2° Posto Concorso di Poesia -2013- 5° Raduno di Gocce di Poesia.</span>
+        <span>2° Posto Concorso di Poesia 2013 5° Raduno di Gocce di Poesia.</span>
         <br />
         <br />
         <span>

@@ -1,15 +1,15 @@
 module.exports = {
-  url: 'https://gatsby-starter-blog-and-cv.netlify.app',
+  url: 'https://lemiepoesie.com',
   pathPrefix: '/',
   title: 'Poesie di Duilio Martino',
   keywords:
-    'account surfer, trello bookmark, trello, productivity, javascript, Marat Dospolov, choosy windows, browser selector',
+    'poesie italiane, poesie d autore, poeta, scrittori, scrittori Italiani,Arte,scrivere, dialetti, usi e costumi',
   subtitle:
     'Nato a Fraine (Ch) il 27. 12. 1957. Scrivo per puro diletto;  i particolari sulla mia Vita li ometto... tanto interessano a nessuno. La poesia  per me è il perfetto connubio tra profondità di pensiero e musicalità. La Poesia è nell’aria, nelle cose che ci circondano, il Poeta la coglie semplicemente.',
   copyright: '© 2020 | Dumart',
   disqusShortname: 'dospolov',
   postsPerPage: 20,
-  googleAnalyticsId: 'UA-6589522-7',
+  googleAnalyticsId: '',
   menu: [
     {
       label: 'Poesie',
