@@ -14,6 +14,9 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: `gatsby-plugin-offline`
+    },
+    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/content`,
@@ -131,15 +134,7 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/index.js`
       }
     },
-    {
-      resolve: 'gatsby-plugin-google-gtag',
-      options: {
-        trackingIds: [siteConfig.googleAnalyticsId],
-        pluginConfig: {
-          head: true
-        }
-      }
-    },
+
     {
       resolve: 'gatsby-plugin-sitemap',
       options: {

@@ -99,7 +99,9 @@ img {
 .featured-product .ant-row {
   background: #2c2c2ec4;
 }
-
+.post.false.relative {
+  border-bottom: 1px solid #ddd;
+}
 .post .poster {
   box-shadow: 0 0 0 3px #97266d33;
 }
