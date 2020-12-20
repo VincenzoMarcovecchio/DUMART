@@ -19,41 +19,41 @@ tags:
 
 ![Incidente aviario](/media/navigando-nel-mio-mare/sotto-i-cieli-di-ustica.jpg)
 
-C'era fermento in giro...
-notte brïosa in piazza Plebiscito
+C'era fermento in giro...<br/>
+notte brïosa in piazza Plebiscito<br/>
 uno dei rari giorni sgraffignati al mare.
 
-Negli occhi la maschia arroganza angioina
-con addosso il profumo delle "margherite"
-e quello di caffè;
+Negli occhi la maschia arroganza angioina<br/>
+con addosso il profumo delle "margherite"<br/>
+e quello di caffè;<br/>
 sui più marpioni poi
 
 _ va da sé _
 
 essenze di matrone napoletane.
 
-Come un fulmine a ciel sereno:
-“Cos'è questa frenesia?
-A bordo tutti
-si riprende il mare,
-forza è urgente
-si torna a navigare..."
-“assicurare la passerella a poppa,
-mollare le cime,
-macchine avanti tutta,
-destinazione da confermare”.
+Come un fulmine a ciel sereno:<br/>
+“Cos'è questa frenesia?<br/>
+A bordo tutti<br/>
+si riprende il mare,<br/>
+forza è urgente<br/>
+si torna a navigare..."<br/>
+“assicurare la passerella a poppa,<br/>
+mollare le cime,<br/>
+macchine avanti tutta,<br/>
+destinazione da confermare”.<br/>
 
-Chi avrebbe potuto immaginare
+Chi avrebbe potuto immaginare<br/>
 di sporcar di sangue la chiglia della nave.
 
-Nelle acque arrese
-l'ho visto quel giovane cuore palpitare
+Nelle acque arrese<br/>
+l'ho visto quel giovane cuore palpitare<br/>
 fluttuante in bava d'infuocato demone del cielo.
 
-Deposto e avvolto in candido velo,
-d'onda increspata e lacrime
+Deposto e avvolto in candido velo,<br/>
+d'onda increspata e lacrime<br/>
 ho lavato le mani!
 
-Ad Ustica,
-nel blu di quel mare...
+Ad Ustica,<br/>
+nel blu di quel mare...<br/>
 le mie mani.

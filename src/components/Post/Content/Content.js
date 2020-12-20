@@ -29,7 +29,7 @@ const Content = ({ body, title, date, externalLink }) => (
           </time>{' '}
           {/* | {readingTime(body).text} */}
         </p>
-        <div className="max-w-sm px-4" dangerouslySetInnerHTML={{ __html: body }} />
+        <div className="" dangerouslySetInnerHTML={{ __html: body }} />
         <br />
         <br />
       </>

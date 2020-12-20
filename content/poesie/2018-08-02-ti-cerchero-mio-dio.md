@@ -19,34 +19,34 @@ tags:
 
 ![Paese medievale](/media/odi-barbare/ti-cerchero-mio-dio.jpg)
 
-Ti cercherò
-nell’aspro talamo di Maja
-dentro le lacrime del volgo montano
-dove pallide aurore
-si confondono a tramonti
+Ti cercherò<br/>
+nell’aspro talamo di Maja<br/>
+dentro le lacrime del volgo montano<br/>
+dove pallide aurore<br/>
+si confondono a tramonti<br/>
 negli occhi opachi d’un vecchio frentano.
 
-Ti cercherò
-sulle lapidi anonime
-tra i secchi fiori sotto croci ossidate
-nel nome strano
-ingombrante pastoia
+Ti cercherò<br/>
+sulle lapidi anonime<br/>
+tra i secchi fiori sotto croci ossidate<br/>
+nel nome strano<br/>
+ingombrante pastoia<br/>
 che spegne i sogni di genti migrate.
 
-Ti cercherò
-nell’aura armonica del vespro
-nel flusso scuro che squassa la storia
-nel diverso temuto
-o in chi detto "brigante"
+Ti cercherò<br/>
+nell’aura armonica del vespro<br/>
+nel flusso scuro che squassa la storia<br/>
+nel diverso temuto<br/>
+o in chi detto "brigante"<br/>
 morì vessato senza Patria e gloria.
 
-Ti cercherò Signore...
-tra le pietre dei borghi diroccati
-sotto il velo ch’ammanta un bianco crine
-nel raspare degli arti trascinati
+Ti cercherò Signore...<br/>
+tra le pietre dei borghi diroccati<br/>
+sotto il velo ch’ammanta un bianco crine<br/>
+nel raspare degli arti trascinati<br/>
 e in chi ogni giorno annusa la sua fine.
 
-Tascolterò Signore in fredde sere
-nel crepitio dei ciocchi nel camino
-e bisbigliando l’ultime preghiere
+Tascolterò Signore in fredde sere<br/>
+nel crepitio dei ciocchi nel camino<br/>
+e bisbigliando l’ultime preghiere<br/>
 berrò la feccia ch’ è rimasta in tino.

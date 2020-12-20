@@ -15,34 +15,34 @@ tags:
   - poesia
 ---
 
-Tra le cucurbitacee con il secchio
-nell’orticello sta ricurvo il vecchio
+Tra le cucurbitacee con il secchio<br/>
+nell’orticello sta ricurvo il vecchio<br/>
 ne sceglie al nipotino la migliore
 
-la festa incombe e s’agitano nuore
-già pensano al frastuono occasionale
+la festa incombe e s’agitano nuore<br/>
+già pensano al frastuono occasionale<br/>
 di cento "stagnarole" lungo il viale.
 
-Nell’aria pregna d’intensi sapori
-s’intaglian volti dai mille colori
+Nell’aria pregna d’intensi sapori<br/>
+s’intaglian volti dai mille colori<br/>
 neri fantocci sui carri arrangiati
 
-per finti scontri tra rioni inscenati
-quando d’inverno ricade il solstizio
+per finti scontri tra rioni inscenati<br/>
+quando d’inverno ricade il solstizio<br/>
 e grosse zucche ne segnano inizio.
 
-Fanciulli avvolti da stracci geniali
-artiste sono le madri speciali
+Fanciulli avvolti da stracci geniali<br/>
+artiste sono le madri speciali<br/>
 si impegnano per renderli contenti
 
-spendendo il tempo per semplici eventi
-fatti di maschere, zucche, scherzetti,
+spendendo il tempo per semplici eventi<br/>
+fatti di maschere, zucche, scherzetti,<br/>
 ferratelle, salsicce e altri dolcetti.
 
-Da tantissimo lustri festeggiamo
-lo strano Santo in Abruzzo montano
+Da tantissimo lustri festeggiamo<br/>
+lo strano Santo in Abruzzo montano<br/>
 senza importare dalle altre nazioni
 
-un altro evento che muove milioni.
-Rivendicare l’antico il folclore
+un altro evento che muove milioni.<br/>
+Rivendicare l’antico il folclore<br/>
 è un atto dovuto, è un atto di amore.

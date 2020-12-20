@@ -18,27 +18,27 @@ tags:
 
 ![Paese medievale](/media/odi-barbare/prigionieri-dei-ricordi.jpg)
 
-Tumultuosi e imbrunendo avanzavano
-i fronti, afoni frassini urlavano
-d'inverno l'avvento; tra pruni
+Tumultuosi e imbrunendo avanzavano<br/>
+i fronti, afoni frassini urlavano <br/>
+d'inverno l'avvento; tra pruni<br/>
 e sterpi spenti
 
-s'imbucavano merli; sul mandorlo
-un freddo nido, reso visibile
-dal morto fogliame, tremava
+s'imbucavano merli; sul mandorlo<br/>
+un freddo nido, reso visibile<br/>
+dal morto fogliame, tremava<br/>
 visibilmente.
 
-Le ieratiche guglie imploravano
-il cielo; sotto ai solidi platani
-strisciante il farfuglio di foglie
+Le ieratiche guglie imploravano<br/>
+il cielo; sotto ai solidi platani<br/>
+strisciante il farfuglio di foglie<br/>
 rese all'ambiente.
 
-Già sfoggiava il crepuscolo un abito
-oscuro, ombre ricurve s'ergevano
-leste: in bocche briose, su brace
+Già sfoggiava il crepuscolo un abito<br/>
+oscuro, ombre ricurve s'ergevano<br/>
+leste: in bocche briose, su brace<br/>
 la creta aulente.
 
-Sotto gelidi baveri i palpiti
-accesi dall'attesa d'un prodigo
-ritorno; la notte era un maglio
+Sotto gelidi baveri i palpiti<br/>
+accesi dall'attesa d'un prodigo<br/>
+ritorno; la notte era un maglio<br/>
 bolo... il ricordo.
