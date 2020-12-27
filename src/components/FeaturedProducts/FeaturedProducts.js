@@ -25,7 +25,8 @@ const FeaturedProducts = () => {
               <Col xs={20} sm={18} md={18} lg={19} xl={19}>
                 <h3 className="mb-1 text-white">{product.name}</h3>
                 <p className="mb-0">
-                  {product.description}{' '}
+                  {product.description}
+                  <br />
                   <a href={product.link} className="block text-white">
                     Continua a leggere...
                   </a>

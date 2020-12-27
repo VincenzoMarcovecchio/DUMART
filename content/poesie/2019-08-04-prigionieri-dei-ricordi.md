@@ -12,7 +12,7 @@ description: >-
   e sterpi spenti...
 category: Odi barbare
 tags:
-  - poesia
+  - impressioni
   - odi barbare
 ---
 
